@@ -1,0 +1,55 @@
+h1{
+color:brown;
+
+}
+body{
+
+    background-color: peachpuff;
+}
+
+
+#pixel{
+    font-size: 40px;
+}
+#point{
+    font-weight: 600;
+}
+#em{
+    font-size: 2em;
+}
+#rem{
+    font-size: 2rem;
+}
+html {
+    font-size: 20px;
+}
+footer{
+    font-size: 12px
+
+    }
+
+#helvetica{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#arial{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#sans-serif{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#serif{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#cursive{
+    font-family: cursive;
+}
+#monospace{
+    font-family: monospace;
+}
+#fantasy{
+    font-family: fantasy;
+}
+
+#text-allign {
+    text-align: right;
+}
